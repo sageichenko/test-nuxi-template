@@ -1,0 +1,6 @@
+{
+  "name": "oggetto-module",
+  "defaultDir": "nuxt-module",
+  "url": "https://nuxt.com",
+  "tar": "https://github.com/sageichenko/test-nuxi-template/tree/main/starter-module"
+}
