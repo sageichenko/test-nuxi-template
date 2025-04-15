@@ -1,6 +1,0 @@
-{
-  "name": "test-module",
-  "defaultDir": "nuxt-module",
-  "url": "https://nuxt.com",
-  "tar": "https://codeload.github.com/sageichenko/test-nuxi-template/tar.gz/refs/heads/module"
-}
