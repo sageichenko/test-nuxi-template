@@ -2,5 +2,5 @@
   "name": "test-module",
   "defaultDir": "nuxt-module",
   "url": "https://nuxt.com",
-  "tar": "https://github.com/sageichenko/test-nuxi-template/raw/refs/heads/main/starter-module.tar.gz"
+  "tar": "https://codeload.github.com/sageichenko/test-nuxi-template/tar.gz/refs/heads/module"
 }
